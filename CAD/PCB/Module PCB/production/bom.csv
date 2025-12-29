@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0603,1,10uF,
+C2,0603,1,0.1uF,
+"D1, D2, D3, D4",0603,4,LED,
+DWM1,DWM1000,1,DWM1000,
+"J1, J2",SolderWire-0.5sqmm_1x04_P4.8mm_D0.9mm_OD2.3mm,2,Conn_01x04_Socket,
+J3,SolderWire-0.5sqmm_1x02_P4.8mm_D0.9mm_OD2.3mm,1,Conn_01x02_Socket,
+"R1, R2, R3",0603,3,1k,
+"R4, R5, R6, R7",0603,4,470R,
