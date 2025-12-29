@@ -47,8 +47,8 @@ I wanted to design a drone for HackClub's Blueprint program, but not just any re
 | Antenna       | For Drone          | 1                    | https://www.aliexpress.us/item/3256806233080373.html                                | $1.64          | $1.64           |
 | Screws        | To Hold Case       | 1 Pack               | https://www.aliexpress.us/item/3256806233080373.html                                | $5.90          | $5.90           |
 | Solder Paste  | To Solder          | 1                    | https://www.aliexpress.us/item/3256807891060111.html                                | $5.55          | $5.55           |
-| JLCPCB Order  | PCBs               | 1                    | JLCPCB Quote                                                                        | $5.30          | $5.30           |
-|               |                    |                      |                                                                                     |                | $136.08         |
+| JLCPCB Order  | PCBs               | 1                    | JLCPCB Quote                                                                        | $31.01          | $31.01           |
+|               |                    |                      |                                                                                     |                | $161.79         |
 
 
 ### LCSC Bill Of Materials
