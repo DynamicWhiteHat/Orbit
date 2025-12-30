@@ -15,6 +15,9 @@
 ## Why I designed this project:
 I wanted to design a drone for HackClub's Blueprint program, but not just any regular drone. I wanted to add a feature that would make it stand out, something that would make it unique. So, I decided to give it the ability to autonomously follow you to an accurate degree. After doing some research, I found the DWM1000 modules and decided to design this project. I designed and redesigned the PCBs and CAD for this project many times, with each iteration improving upon the last. This project also gave me the ability to test and improve my PCB and CAD design skills. I understood a lot more about schematic connections while working on this project and learned to route much cleaner traces, even on a compact board.
 
+## Firmware: 
+  Firmware is based on flix by Oleg Kalachev. It has been modded to include a barometer, a compass, and a tracking mode. Available [here](https://github.com/DynamicWhiteHat/OrbitFirmware).
+
 ## Image gallery:
 <table align="center">
   <tr>
@@ -46,8 +49,9 @@ I wanted to design a drone for HackClub's Blueprint program, but not just any re
 | Antenna       | For Drone          | 1                    | https://www.aliexpress.us/item/3256806233080373.html                                | $1.64          | $1.64           |
 | Screws        | To Hold Case       | 1 Pack               | https://www.aliexpress.us/item/3256806233080373.html                                | $5.90          | $5.90           |
 | Solder Paste  | To Solder          | 1                    | https://www.aliexpress.us/item/3256807891060111.html                                | $5.55          | $5.55           |
-| JLCPCB Order  | PCBs               | 1                    | JLCPCB Quote                                                                        | $5.30          | $5.30           |
-|               |                    |                      |                                                                                     |                | $136.08         |
+| Hot Plate  | To Solder          | 1                    | https://www.aliexpress.us/item/3256807891060111.html                                | $18.02         | $18.02           |
+| JLCPCB Order  | PCBs               | 1                    | JLCPCB Quote                                                                        | $31.01          | $31.01           |
+|               |                    |                      |                                                                                     |                | $179.81         |
 
 
 ### LCSC Bill Of Materials
@@ -57,8 +61,8 @@ I wanted to design a drone for HackClub's Blueprint program, but not just any re
 | QFN-24-EP(4x4) Accelerometers RoHS                                                          | 1               | MPU-6050                | 1          | 6.8489          | 6.85           | C24112    | https://www.lcsc.com/product-detail/C24112.html    |
 | 1Kpa~1.2bar QFN-8(3x5) Pressure Sensors, Transducers RoHS                                   | 1               | MS561101BA03-50         | 1          | 5.5485          | 5.55           | C15639    | https://www.lcsc.com/product-detail/C15639.html    |
 | I2C LGA-16(3x3) Linear, Compass (ICs) RoHS                                                  | 1               | QMC5883P                | 1          | 1.4485          | 1.45           | C2847467  | https://www.lcsc.com/product-detail/C2847467.html  |
-| Red LED Indication - Discrete 2.7V~3.2V 0602                                                |                 | YLED0603R               | 200        | 0.0055          | 0.55           | C19171390 | https://www.lcsc.com/product-detail/C19171390.html |
-| Emerald Green LED Indication - Discrete 2.7V~3.2V 0603                                      | 113             | YLED0603G               | 200        | 0.0054          | 1.08           | C19273151 | https://www.lcsc.com/product-detail/C19273151.html |
+| Red LED Indication - Discrete 2.7V~3.2V 0602                                                | 5               | YLED0603R               | 200        | 0.0055          | 0.55           | C19171390 | https://www.lcsc.com/product-detail/C19171390.html |
+| Emerald Green LED Indication - Discrete 2.7V~3.2V 0603                                      | 13             | YLED0603G               | 200        | 0.0054          | 1.08           | C19273151 | https://www.lcsc.com/product-detail/C19273151.html |
 | 2.4GHz ESP32-S3R8 -98.2dBm SMD,19.2x18mm RF Transceiver Modules and Modems RoHS             | 1               | ESP32-S3-WROOM-1U-N16R8 | 1          | 5.3260          | 5.33           | C3013946  | https://www.lcsc.com/product-detail/C3013946.html  |
 | 100nF ±10% 50V Ceramic Capacitor X7R 0603                                                   | 17              | CC0603KRX7R9BB104       | 100        | 0.0025          | 0.25           | C14663    | https://www.lcsc.com/product-detail/C14663.html    |
 | 220nF ±10% 50V Ceramic Capacitor X7R 0603                                                   | 1               | CL10B224KB8NNNC         | 100        | 0.0081          | 0.81           | C64705    | https://www.lcsc.com/product-detail/C64705.html    |

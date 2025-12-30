@@ -9,16 +9,17 @@ Motors,For Drone,1 Pack of 4,https://www.amazon.com/Coliao-Coreless-19000KV-Prop
 Antenna,For Drone,1,https://www.aliexpress.us/item/3256806233080373.html,$1.64,$1.64,,
 Screws,To Hold Case,1 Pack,https://www.aliexpress.us/item/3256806233080373.html,$5.90,$5.90,,
 Solder Paste,To Solder,1,https://www.aliexpress.us/item/3256807891060111.html,$5.55,$5.55,,
-JLCPCB Order, PCBs,1,JLCPCB Quote,$5.30,$5.30,,
-,,,,,$136.08,,
+Hot Plate,To Solder,1,https://www.aliexpress.us/item/3256806829821102.html,$18.02,$18.02,,
+JLCPCB Order, PCBs,1,JLCPCB Quote,$31.01,$31.01,,
+,,,,,$179.81 ,,
 LCSC,,,,,,,
 Description,Quantity Needed,Mrf#,Minimum Order Qty.,Unit Price(USD),Ext.Price(USD),LCSC#,Product Link
 N-Channel 20V 4A 1.2W Surface Mount SOT-23,4,SI2300,20,0.0164,0.33,C5224175,https://www.lcsc.com/product-detail/C5224175.html
 QFN-24-EP(4x4) Accelerometers RoHS,1,MPU-6050,1,6.8489,6.85,C24112,https://www.lcsc.com/product-detail/C24112.html
 "1Kpa~1.2bar QFN-8(3x5) Pressure Sensors, Transducers RoHS",1,MS561101BA03-50,1,5.5485,5.55,C15639,https://www.lcsc.com/product-detail/C15639.html
 "I2C LGA-16(3x3) Linear, Compass (ICs) RoHS",1,QMC5883P,1,1.4485,1.45,C2847467,https://www.lcsc.com/product-detail/C2847467.html
-Red LED Indication - Discrete 2.7V~3.2V 0602,,YLED0603R,200,0.0055,0.55,C19171390,https://www.lcsc.com/product-detail/C19171390.html
-Emerald Green LED Indication - Discrete 2.7V~3.2V 0603,113,YLED0603G,200,0.0054,1.08,C19273151,https://www.lcsc.com/product-detail/C19273151.html
+Red LED Indication - Discrete 2.7V~3.2V 0602,5,YLED0603R,200,0.0055,0.55,C19171390,https://www.lcsc.com/product-detail/C19171390.html
+Emerald Green LED Indication - Discrete 2.7V~3.2V 0603,13,YLED0603G,200,0.0054,1.08,C19273151,https://www.lcsc.com/product-detail/C19273151.html
 "2.4GHz ESP32-S3R8 -98.2dBm SMD,19.2x18mm RF Transceiver Modules and Modems RoHS",1,ESP32-S3-WROOM-1U-N16R8,1,5.326,5.33,C3013946,https://www.lcsc.com/product-detail/C3013946.html
 100nF ±10% 50V Ceramic Capacitor X7R 0603,17,CC0603KRX7R9BB104,100,0.0025,0.25,C14663,https://www.lcsc.com/product-detail/C14663.html
 220nF ±10% 50V Ceramic Capacitor X7R 0603,1,CL10B224KB8NNNC,100,0.0081,0.81,C64705,https://www.lcsc.com/product-detail/C64705.html
@@ -43,3 +44,8 @@ Lithium Battery 1A ESOP-8 Battery Management RoHS,1,TP4056-42-ESOP8,5,0.1784,0.8
 470Ω ±1% 100mW 0603 Thick Film Resistor,12,0603WAF4700T5E,100,0.0012,0.12,C23179,https://www.lcsc.com/product-detail/C23179.html
 "Slide Switch SPDT 300mA @ 5V Surface Mount, Right Angle Rectangular Columnar",1,SSSS811101,5,0.1408,0.7,C109335,https://www.lcsc.com/product-detail/C109335.html
 Connector Header 2 position 2mm Pitch 2A Right Angle -25℃~+85℃,1,S2B-PH-K-S(LF)(SN),20,0.0351,0.7,C17375,https://lcsc.com/product-detail/C17375
+
+
+
+
+
