@@ -32,6 +32,65 @@ I wanted to design a drone for HackClub's Blueprint program, but not just any re
   </tr>
 </table>
 
+## Schematics And PCBS
+
+<details>
+<summary>Drone Control Board</summary>
+<table align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <img width="4960" height="3507" alt="image" src="https://github.com/user-attachments/assets/e1b459fc-4c74-4410-9dc0-0e94d2a03ee4" />
+    </td>
+  </tr>
+  <tr>
+     <td align="center">
+      <img width="350" height="480" alt="image" src="https://github.com/user-attachments/assets/f55b644d-2282-4c6c-92f6-2fd6348849b4" />
+    </td>
+    <td align="center">
+      <img width="334" height="480" alt="image" src="https://github.com/user-attachments/assets/c2a5c398-8854-458f-b628-ce6a5f2a7209" />
+    </td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary>Beacon Board</summary>
+<table align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/8dca3ad6-e39f-4a36-9891-a39b260d917c" />
+    </td>
+  </tr>
+  <tr>
+     <td align="center">
+      <img width="543" height="536" alt="image" src="https://github.com/user-attachments/assets/d9370fd5-4791-4dd3-80fe-04533238ec71" />
+    </td>
+    <td align="center">
+     <img width="529" height="510" alt="image" src="https://github.com/user-attachments/assets/2ab502b1-765c-41f7-a9f9-c497ccbe22f7" />
+    </td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary>UWB Module Board</summary>
+<table align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/b7e5f2e6-f1cd-4fd5-9256-8db702728cc4" /
+    </td>
+  </tr>
+  <tr>
+     <td align="center">
+      <img width="330" height="635" alt="image" src="https://github.com/user-attachments/assets/1f1545ba-dd61-43c0-b372-669690e46215" />
+    </td>
+    <td align="center">
+      <img width="327" height="631" alt="image" src="https://github.com/user-attachments/assets/da021a72-2f30-40ea-8ac7-573369acb161" />
+    </td>
+  </tr>
+</table>
+</details>
+
 ## Bill Of Materials
 
 | Item          | Description        | Quantity             | URL                                                                                 | Unit Price ($) | Total Price ($) |
