@@ -109,8 +109,8 @@ The drone is powered by a custom designed PCB based on the ESP-32 S3 Wroom 1u So
 | Antenna       | For Drone          | 1                    | https://www.aliexpress.us/item/3256806233080373.html                                | $1.64          | $1.64           |
 | Screws        | To Hold Case       | 1 Pack               | https://www.aliexpress.us/item/3256806233080373.html                                | $5.90          | $5.90           |
 | Solder Paste  | To Solder          | 1                    | https://www.aliexpress.us/item/3256807891060111.html                                | $5.55          | $5.55           |
-| JLCPCB Order  | PCBs               | 1                    | JLCPCB Quote                                                                        | $31.01          | $31.01           |
-|               |                    |                      |                                                                                     |                | $161.79         |
+| JLCPCB Order  | PCBs               | 1                    | JLCPCB Quote                                                                        | $17.16          | $17.16           |
+|               |                    |                      |                                                                                     |                | $144.63         |
 
 
 ### LCSC Bill Of Materials
