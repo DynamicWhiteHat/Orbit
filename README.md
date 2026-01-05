@@ -108,8 +108,8 @@ The drone is powered by a custom designed PCB based on the ESP-32 S3 Wroom 1u So
 | Motors        | For Drone          | 1 Pack of 4          | https://www.amazon.com/Coliao-Coreless-19000KV-Propeller-Quadcopter/dp/B0CHYDJMF2/  | $10            | $11             |
 | Antenna       | For Drone          | 1                    | https://www.aliexpress.us/item/3256806233080373.html                                | $1.64          | $1.64           |
 | Screws        | To Hold Case       | 1 Pack               | https://www.aliexpress.us/item/3256806233080373.html                                | $5.90          | $5.90           |
-| JLCPCB Order  | PCBs               | 1                    | JLCPCB Quote                                                                        | $17.16          | $11.61           |
-|               |                    |                      |                                                                                     |                | $144.63         |
+| JLCPCB Order  | PCBs               | 1                    | JLCPCB Quote                                                                        | $17.16          | $17.16           |
+|               |                    |                      |                                                                                     |                | $139.08         |
 
 
 ### LCSC Bill Of Materials
